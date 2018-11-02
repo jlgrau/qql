@@ -67,3 +67,4 @@ Let's try to point to a previous page – [like this one](landing-page.md#get-ca
 
 3. Click the Heading you want and that's it! Pretty straightforward ;\)
 
+This last line here has been added directly in GitHub :)
