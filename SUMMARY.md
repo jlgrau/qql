@@ -4,6 +4,6 @@
 
 ## Getting Started
 
-* [Landing Page](new-nested-group/landing-page.md)
+* [API Sample](new-nested-group/landing-page.md)
 * [Other page](new-nested-group/other-page.md)
 
