@@ -5,5 +5,5 @@
 ## Getting Started
 
 * [API Sample](new-nested-group/landing-page.md)
-* [Other page](new-nested-group/other-page.md)
+* [Another page displaying code](new-nested-group/other-page.md)
 
