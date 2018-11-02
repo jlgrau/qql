@@ -67,4 +67,4 @@ Let's try to point to a previous page – [like this one](landing-page.md#get-ca
 
 3. Click the Heading you want and that's it! Pretty straightforward ;\)
 
-This last line here has been added directly in GitHub :)
+***This last line here has been added directly in GitHub - less the 5 seconds after my GitHub commit, the site/space, has been automatically updated bu GitBook. Ain't this lovely? :)***
