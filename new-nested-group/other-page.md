@@ -56,3 +56,14 @@ Which produces this output:
 
 Pretty cool, right?
 
+
+
+Let's try to point to a previous page – [API Sample](landing-page.md#get-cakes). It's pretty simple:
+
+1. Press `Ctrl + K`
+2. Enter the topic, page title or URL, as shown below:
+
+![Super simple, right?](../.gitbook/assets/image%20%282%29.png)
+
+3. Click the Heading and that's it! ;\)
+
