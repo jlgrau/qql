@@ -66,5 +66,5 @@ Let's try to point to a previous page – [like this one](landing-page.md#get-ca
 
 _**This last line here has been added directly in GitHub - less the 5 seconds after my GitHub commit, the site/space, has been automatically updated bu GitBook. Ain't this lovely? :\)**_
 
-![It works both ways - you can write content in GitBook and synchronize it with GitHub or vice-versa](../.gitbook/assets/image%20%283%29.png)
+![So, basically, it works both ways - you can write your content in GitBook and synchronize it with GitHub or vice-versa](../.gitbook/assets/image%20%283%29.png)
 
