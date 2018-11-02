@@ -41,8 +41,7 @@ Below, you can see a screenshot and its caption:
 
 This program takes a positive integer from user and stores it in variable `n`.
 
-Then, `for` loop is executed which checks whether the number entered by user is perfectly divisible by `i` or not.  
-
+Then, `for` loop is executed which checks whether the number entered by user is perfectly divisible by `i` or not.
 
 You can add extra code by using the inline MD highlighting:
 
@@ -56,8 +55,6 @@ Which produces this output:
 
 Pretty cool, right?
 
-
-
 Let's try to point to a previous page – [like this one](landing-page.md#get-cakes). It's pretty simple:
 
 1. Press `Ctrl + K`
@@ -65,6 +62,9 @@ Let's try to point to a previous page – [like this one](landing-page.md#get-ca
 
 ![Super simple, right?](../.gitbook/assets/image%20%282%29.png)
 
-3. Click the Heading you want and that's it! Pretty straightforward ;\)
+1. Click the Heading you want and that's it! Pretty straightforward ;\)
 
-***This last line here has been added directly in GitHub - less the 5 seconds after my GitHub commit, the site/space, has been automatically updated bu GitBook. Ain't this lovely? :)***
+_**This last line here has been added directly in GitHub - less the 5 seconds after my GitHub commit, the site/space, has been automatically updated bu GitBook. Ain't this lovely? :\)**_
+
+![It works both ways - you can write content in GitBook and synchronize it with GitHub or vice-versa](../.gitbook/assets/image%20%283%29.png)
+
