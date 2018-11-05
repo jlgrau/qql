@@ -6,5 +6,7 @@ A brief overview of our magnificent product in the video below:
 
 {% embed url="https://youtu.be/9kpRCjuOS8o" %}
 
+
 Hope you enjoy this!
 
+<span style="color:red"> *some emphasized markdown text in red*</span>
