@@ -8,5 +8,3 @@ A brief overview of our magnificent product in the video below:
 
 
 Hope you enjoy this!
-
-<span style="color:red"> *some emphasized markdown text in red*</span>
